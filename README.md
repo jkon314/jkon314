@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jkon314
-- 👀 I’m interested in data analytics, machine learning, 
-- 🌱 I’m currently learning python. 
-- 💞️ I’m looking to collaborate on machine learning projects and web apps. 
-- 📫 How to reach me ...
+-  I’m interested in data analytics, machine learning, and game dev
+- 🌱 I’m currently mastering python. 
+- 💞️ I’m looking to collaborate on machine learning projects, web apps, and video games. 
+  
 
 <!---
 jkon314/jkon314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
