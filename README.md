@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jkon314
+- My first game: [ShovelBear](https://store.steampowered.com/app/2213730/ShovelBear/)
 -  I’m interested in data analytics, machine learning, and game dev
 - 🌱 I’m currently mastering python. 
 - 💞️ I’m looking to collaborate on machine learning projects, web apps, and video games. 
