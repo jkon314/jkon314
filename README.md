@@ -4,7 +4,8 @@
 - 🌱 I’m currently mastering python. 
 - 💞️ I’m looking to collaborate on machine learning projects, web apps, and video games. 
 
-Dashboard Powered by Machine Learning and Pure Python!
+Dashboard Powered by Machine Learning and Pure Python! 
+
 ![image](https://github.com/user-attachments/assets/12992a06-8ee2-4639-a814-5823ac02c93f)
 
 <!---
